@@ -1,4 +1,4 @@
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" height="40" alt="Blob Sunglasses" /> <h2 style="display:inline;">👋 Hey! Nice to see you.</h2>
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" height="40" alt="Blob Sunglasses" />&nbsp;<h2 style="display:inline;">👋 Hey! Nice to see you.</h2>
 
 I'm Shahzaib, a Full Stack Developer from Pakistan 🇵🇰, passionate about building sleek and scalable applications.
 
