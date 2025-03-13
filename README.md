@@ -1,4 +1,6 @@
-![Blob Sunglasses](https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430)
+<div align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" height="50" alt="Blob Sunglasses" />
+</div>
 
 ## 👋 Hey! Nice to see you.
 I'm Shahzaib, a Full Stack Developer from Pakistan 🇵🇰, passionate about building sleek and scalable applications.
@@ -33,8 +35,6 @@ I'm Shahzaib, a Full Stack Developer from Pakistan 🇵🇰, passionate about bu
 ---
 
 ## 🌟 Open Source Projects
-Unfortunately, I don’t have access to your GitHub repositories to list your actual projects. You can add them manually in the format below:
-
 <div align="center">
   <table>
     <tr>
@@ -61,27 +61,17 @@ Unfortunately, I don’t have access to your GitHub repositories to list your ac
   </table>
 </div>
 
-Replace `[PROJECT_NAME_1]`, `[PROJECT_NAME_2]`, and the numbers with your actual project names and stats from your GitHub repositories.
-
 ---
 
 ## 📝 My latest posts
-Since I don’t have access to your recent posts, you can add links to your blog posts, Medium articles, or GitHub discussions. Here’s an example:
-
 - 🆕 [How I Built My First Full-Stack App with Next.js and Node.js](https://medium.com/@your-username/link-to-post)
 - 🔧 [A Guide to Using TailwindCSS for Beginners](https://medium.com/@your-username/link-to-post)
 - 🚀 [Why I Love Open Source and How You Can Contribute Too](https://medium.com/@your-username/link-to-post)
 
-Replace the titles and links with your actual posts.
-
 ---
 
 ## 🏆 Achievements
-You can add GitHub achievement badges here. Since I don’t have access to your achievements, you can find them on your GitHub profile under the "Achievements" section and add their image URLs. Here’s an example:
-
 <div align="center">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" height="50" alt="Starstruck" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" height="50" alt="Pull Shark" />
 </div>
-
-Replace the image URLs with your actual achievement badge URLs.
