@@ -1,4 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Shahzaib!</h1>
+![Blob Sunglasses](https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430)
 <h3 align="center">A passionate Full Stack Developer from Pakistan 🇵🇰</h3>
 
 ###
