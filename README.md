@@ -109,9 +109,6 @@
   <a href="https://reactjs.org/" target="_blank" style="display: inline-flex;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
   </a>
-  <a href="https://reactnative.dev/" target="_blank" style="display: inline-flex;">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="50" height="50"/>
-  </a>
   <a href="https://tailwindcss.com/" target="_blank" style="display: inline-flex;">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
   </a>
