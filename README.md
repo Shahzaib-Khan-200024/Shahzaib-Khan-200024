@@ -77,17 +77,14 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" style="margin-right: 15px;"/>
   </a>
   <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="margin-right: 15px;"/>
-  </a>
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="50" height="50" style="border-radius: 50%; background-color: white; padding: 5px;"/>
+</a>
   <a href="https://www.npmjs.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="50" height="50" style="margin-right: 15px;"/>
   </a>
-  <a href="https://brave.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Brave_icon.svg" alt="Brave Browser" width="50" height="50" style="margin-right: 15px;"/>
-  </a>
-  <a href="https://clerk.dev/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/45139546?s=200&v=4" alt="Clerk" width="50" height="50" style="margin-right: 15px;"/>
-  </a>
+  <a href="https://www.google.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" width="60" height="60" style="margin-right: 15px;"/>
+</a>
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" style="margin-right: 15px;"/>
   </a>
