@@ -100,8 +100,11 @@
 
 
 
-<h3>Where to find me</h3>
-<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-shahzaib-khan-9475882b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-shahzaib-khan-9475882b5/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/people/shahzaib-khan/pfbid0t8rush7ylhfwffwy3t3xztqauetauhwxey9tc91qpr79pazcggitr5rpev7egqajl/?rdid=p9x5j7bghzkgw4jz&share_url=https%3a%2f%2fwww.facebook.com%2fshare%2fg3y3rypgo7cavpjs%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/shahzaib-khan/pfbid0t8rush7ylhfwffwy3t3xztqauetauhwxey9tc91qpr79pazcggitr5rpev7egqajl/?rdid=p9x5j7bghzkgw4jz&share_url=https%3a%2f%2fwww.facebook.com%2fshare%2fg3y3rypgo7cavpjs%2f" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/shahzaib.khan18/?igsh=mwioyjz2nhgxm3exag%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shahzaib.khan18/?igsh=mwioyjz2nhgxm3exag%3d%3d" height="30" width="40" /></a>
 </p>
 
 
