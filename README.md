@@ -59,6 +59,17 @@
 
 
 <p>Welcome to my page! </br> I'm Shahzaib, a Fullstack developer.</p>
+
+###
+
+<br clear="both">
+
+<div>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shahzaib-Khan-200024&theme=dark" alt="GitHub Streak" /></a>
+</div>
+
+###
+
 <h3>Things I code with</h3>
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="40" alt="Android" />
