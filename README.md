@@ -49,7 +49,7 @@
 ###
 
 <h3 align="center">✨ Fun Fact</h3>
-<p align="center">I enjoy building sleek, scalable applications while sipping on a cup of chai! ☕</p> -->
+<p align="center">I enjoy building sleek, scalable applications while sipping on a cup of chai! ☕</p>-->
 
 
 
@@ -60,62 +60,44 @@
 
 <p>Welcome to my page! </br> I'm Shahzaib, a Fullstack developer.</p>
 <h3>Things I code with</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <a href="https://developer.android.com" target="_blank" style="display: inline-flex;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="50" height="50"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" style="display: inline-flex;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" style="display: inline-flex;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" style="display: inline-flex;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" style="display: inline-flex;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
-  </a>
-  <a href="https://github.com/" target="_blank" style="display: inline-flex;">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="50" height="50" style="border-radius: 50%; background-color: white; padding: 5px;"/>
-  </a>
-  <a href="https://www.npmjs.com/" target="_blank" style="display: inline-flex;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="50" height="50"/>
-  </a>
-  <a href="https://www.google.com/" target="_blank" style="display: inline-flex;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" width="60" height="60"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" style="display: inline-flex;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="display: inline-flex;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" style="display: inline-flex;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" style="display: inline-flex;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50" style="background-color:white; padding:5px; border-radius:10px;"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" style="display: inline-flex;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" style="display: inline-flex;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="50" height="50"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" style="display: inline-flex;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" style="display: inline-flex;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" style="display: inline-flex;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" style="display: inline-flex;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-  </a>
-</p>
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="40" alt="Android" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS3" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker" />
+  <img width="15" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="Git" />
+  <img width="15" />
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="40" alt="GitHub" style="border-radius: 50%; background-color: white; padding: 5px;" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM" />
+  <img width="15" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" height="30" alt="Google" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" style="background-color:white; padding:5px; border-radius:10px;" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js" />
+  <img width="15" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="40" alt="Photoshop" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" alt="React" />
+  <img width="15" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+</div>
+
 
 
 <h3>Where to find me</h3>
