@@ -62,39 +62,39 @@
 <h3>Things I code with</h3>
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="40" alt="Android" />
-  <img width="15" />
+  <img width="10" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
-  <img width="15" />
+  <img width="10" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS3" />
-  <img width="15" />
+  <img width="10" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker" />
-  <img width="15" />
+  <img width="10" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="Git" />
-  <img width="15" />
+  <img width="10" />
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="40" alt="GitHub" style="border-radius: 50%; background-color: white; padding: 5px;" />
-  <img width="15" />
+  <img width="10" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM" />
-  <img width="15" />
+  <img width="10" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" height="30" alt="Google" />
-  <img width="15" />
+  <img width="10" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5" />
-  <img width="15" />
+  <img width="10" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="15" />
+  <img width="10" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img width="15" />
+  <img width="10" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" style="background-color:white; padding:5px; border-radius:10px;" />
-  <img width="15" />
+  <img width="10" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js" />
-  <img width="15" />
+  <img width="10" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="40" alt="Photoshop" />
-  <img width="15" />
+  <img width="10" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="15" />
+  <img width="10" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="15" />
+  <img width="10" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS" />
-  <img width="15" />
+  <img width="10" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
 </div>
 
