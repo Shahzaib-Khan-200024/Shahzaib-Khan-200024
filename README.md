@@ -1,4 +1,4 @@
-<!-- <div align="center">
+<div align="center">
   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt="Blob Sunglasses"/> Hey! Nice to see you.</h1>
   <h3>Welcome to my page! <br/> I'm Shahzaib, a Full Stack Developer.</h3>
 </div>
@@ -49,13 +49,13 @@
 ###
 
 <h3 align="center">✨ Fun Fact</h3>
-<p align="center">I enjoy building sleek, scalable applications while sipping on a cup of chai! ☕</p> -->
+<p align="center">I enjoy building sleek, scalable applications while sipping on a cup of chai! ☕</p>
 
 
 
 
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> Hey! Nice to see you.</h1>
+<!-- <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> Hey! Nice to see you.</h1>
 
 
 <p>Welcome to my page! </br> I'm Shahzaib, a Fullstack developer.</p>
@@ -140,4 +140,4 @@
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 3 March, 07:01 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
+<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p> -->
