@@ -96,6 +96,21 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS" />
   <img width="10" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+	<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+	<img width="10" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Google_Chrome_icon_%282011%29.png" height="40" alt="Chrome" />
+	<img width="10" />
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" height="40" alt="Cursor AI" />
+<img width="10" />
+<img src="https://stwo.biz/libs/browser-logos/39.3.0/brave/brave.png" height="45" alt="Brave Browser" />
+<img width="10" />
+<img src="https://static-00.iconduck.com/assets.00/apps-figma-icon-2048x2048-ctjj5ab7.png" height="40" alt="Figma" />
+<img width="10" />
+<img src="https://static-00.iconduck.com/assets.00/openai-icon-2021x2048-4rpe5x7n.png" height="40" alt="ChatGPT" />
+<img width="10" />
+<img src="https://brandlogos.net/wp-content/uploads/2025/02/deepseek_logo_icon-logo_brandlogos.net_s5bgc.png" height="40" alt="DeepSeek" />
+
 </div>
 
 
