@@ -107,7 +107,7 @@
 <img width="10" />
 <img src="https://static-00.iconduck.com/assets.00/apps-figma-icon-2048x2048-ctjj5ab7.png" height="40" alt="Figma" />
 <img width="10" />
-<img src="https://static-00.iconduck.com/assets.00/openai-icon-2021x2048-4rpe5x7n.png" height="40" alt="ChatGPT" />
+<img src="https://i0.wp.com/gpng.net/wp-content/uploads/Chat-GPT-Logo-white-transparent.png?fit=1529%2C1549&ssl=1" height="40" alt="ChatGPT" />
 <img width="10" />
 <img src="https://brandlogos.net/wp-content/uploads/2025/02/deepseek_logo_icon-logo_brandlogos.net_s5bgc.png" height="40" alt="DeepSeek" />
 
